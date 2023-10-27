@@ -371,11 +371,7 @@ strong {
   }
 }
 
-@media (max-width: 460px) {
-  .title p {
-    display: none;
-  }
-}
+
 
 footer {
   font-family: var(--heading-font);
