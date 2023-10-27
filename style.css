@@ -371,7 +371,7 @@ strong {
   }
 }
 
-@media (min-width: 360px) {
+@media (max-width: 460px) {
   .title p {
     display: none;
   }
