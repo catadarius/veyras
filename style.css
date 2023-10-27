@@ -371,6 +371,12 @@ strong {
   }
 }
 
+@media (min-width: 360px) {
+  .title p {
+    display: none;
+  }
+}
+
 footer {
   font-family: var(--heading-font);
 }
